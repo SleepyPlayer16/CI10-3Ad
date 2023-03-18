@@ -1,0 +1,19 @@
+{
+  "name": "ci10-3ad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SleepyPlayer16/CI10-3Ad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SleepyPlayer16/CI10-3Ad/issues"
+  },
+  "homepage": "https://github.com/SleepyPlayer16/CI10-3Ad#readme"
+}
